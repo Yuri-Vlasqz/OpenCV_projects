@@ -11,4 +11,6 @@
   
   Example image of a frame after steps:
   ![image](https://github.com/Yuri-Vlasqz/OpenCV_projects/blob/1b53f8b86c5175ea884dbb27b46204c184b898f8/Object_Measurement/test%20image%20GaussianBlur%20Canny.jpg)
-  Objects bounding boxes in blue, mesurementes in dark green and aruco markers in light green
+  - Objects bounding boxes in blue
+  - Objects mesurementes in dark green 
+  - Main Aruco Marker in light green
