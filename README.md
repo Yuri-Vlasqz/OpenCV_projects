@@ -1,6 +1,6 @@
 # OpenCV_projects
 
-### List of Projects using OpenCV library.
+### List of computer vision projects using OpenCV library.
 ##
 - Object_Measurement:
 
